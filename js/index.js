@@ -1,0 +1,1 @@
+$(document).ready(function(){ $(".intro-message").addClass("animated fadeInUp"); });
